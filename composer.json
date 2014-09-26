@@ -1,0 +1,14 @@
+{
+    "name": "cvo-technologies/croogo-all-plugins",
+    "authors": [
+        {
+            "name": "Marlin Cremers",
+            "email": "m.cremers@cvo-technologies.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+	"cvo-technologies/croogo-nodes-datasource-plugin": "dev-master",
+	"cvo-technologies/croogo-webshop-plugin": "dev-master"
+    }
+}
